@@ -41,4 +41,4 @@ jobs:
           repo_token: "${{ secrets.ACCESS_TOKEN }}"
           automatic_release_tag: "otatool_models"
           prerelease: false
-          title: "${{ steps.date.outputs.time }}"
+          title: "${{ steps.date.outputs.name }}"
