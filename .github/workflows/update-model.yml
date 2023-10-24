@@ -33,7 +33,7 @@ jobs:
 
       - name: Get commit date
         id: date
-        run: echo "name=$(git log -1 --pretty=format:"%ci" | sed 's/ //g; s/-//g; s/://g;' | cut -b 1-12)"
+        run: echo "name=$(git log -1 --pretty=format:"%ci" | sed 's/ //g; s/-//g; s/://g;' | cut -b 1-12)" >> $GITHUB_OUTPUT
 
       - name: Automatic Releases
         uses: marvinpinto/action-automatic-releases@v1.2.1
