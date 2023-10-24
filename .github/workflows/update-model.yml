@@ -27,13 +27,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           # 选择要使用的 node 版本
-          node-version: 18
+          node-version: 20
           # 缓存 pnpm 依赖
       #          cache: pnpm
 
       - name: Get commit date
         id: date
-        run: echo "name=time::$(git log -1 --pretty=format:"%ci" | sed 's/ //g; s/-//g; s/://g;' | cut -b 1-12)"
+        run: echo "name=$(git log -1 --pretty=format:"%ci" | sed 's/ //g; s/-//g; s/://g;' | cut -b 1-12)"
 
       - name: Automatic Releases
         uses: marvinpinto/action-automatic-releases@v1.2.1
