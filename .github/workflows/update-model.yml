@@ -37,10 +37,8 @@ jobs:
 
       - name: Automatic Releases
         uses: marvinpinto/action-automatic-releases@v1.2.1
-        env:
-          TIME: ${{ steps.date.outputs.time }}
         with:
           repo_token: "${{ secrets.ACCESS_TOKEN }}"
           automatic_release_tag: "otatool_models"
           prerelease: false
-          title: "${TIME}"
+          title: "${{ steps.date.outputs.time }}"
