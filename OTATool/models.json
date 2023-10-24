@@ -773,9 +773,14 @@
       "name": "Neo",
       "list": [
         {
-          "name": "GT Neo 5G",
+          "name": "GT Neo",
           "model": "RMX3031",
           "area": 1
+        },
+        {
+          "name": "GT Neo",
+          "model": "RMX3031",
+          "area": 2
         },
         {
           "name": "GT Neo 闪速版",
