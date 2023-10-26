@@ -641,6 +641,26 @@
           "area": 2
         }
       ]
+    },
+    {
+      "name": "Open",
+      "list": [
+        {
+          "name": "Open",
+          "model": "CPH2551IN",
+          "area": 2
+        },
+        {
+          "name": "Open",
+          "model": "CPH2551EEA",
+          "area": 3
+        },
+        {
+          "name": "Open",
+          "model": "CPH2551",
+          "area": 4
+        }
+      ]
     }
   ],
   "Realme": [
