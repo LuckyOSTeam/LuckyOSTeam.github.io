@@ -639,6 +639,11 @@
           "name": "Nord 3",
           "model": "CPH2491",
           "area": 2
+        },
+        {
+          "name": "Nord 3",
+          "model": "CPH2493EEA",
+          "area": 3
         }
       ]
     },
