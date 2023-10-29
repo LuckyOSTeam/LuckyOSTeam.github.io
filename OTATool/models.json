@@ -644,14 +644,14 @@
         },
         {
           "name": "10 Pro",
-          "product": "NE2213",
-          "area": 4
-        },
-        {
-          "name": "10 Pro",
           "product": "NE2213EEA",
           "model": "NE2213",
           "area": 3
+        },
+        {
+          "name": "10 Pro",
+          "product": "NE2213",
+          "area": 5
         },
         {
           "name": "10 T",
