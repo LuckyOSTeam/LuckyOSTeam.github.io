@@ -5,12 +5,12 @@
       "list": [
         {
           "name": "Reno Ace",
-          "model": "PCLM10",
+          "product": "PCLM10",
           "area": 1
         },
         {
           "name": "Ace2",
-          "model": "PDHM00",
+          "product": "PDHM00",
           "area": 1
         }
       ]
@@ -20,52 +20,52 @@
       "list": [
         {
           "name": "X2 全网通版",
-          "model": "PDEM10",
+          "product": "PDEM10",
           "area": 1
         },
         {
           "name": "X2 移动版",
-          "model": "PDET10",
+          "product": "PDET10",
           "area": 1
         },
         {
           "name": "X2 Pro",
-          "model": "PDEM30",
+          "product": "PDEM30",
           "area": 1
         },
         {
           "name": "X3",
-          "model": "PEDM00",
+          "product": "PEDM00",
           "area": 1
         },
         {
           "name": "X3 Pro",
-          "model": "PEEM00",
+          "product": "PEEM00",
           "area": 1
         },
         {
           "name": "X5",
-          "model": "PFFM10",
+          "product": "PFFM10",
           "area": 1
         },
         {
           "name": "X5 Pro",
-          "model": "PFEM10",
+          "product": "PFEM10",
           "area": 1
         },
         {
           "name": "X5 Pro 天玑版",
-          "model": "PFFM20",
+          "product": "PFFM20",
           "area": 1
         },
         {
           "name": "X6",
-          "model": "PGFM10",
+          "product": "PGFM10",
           "area": 1
         },
         {
           "name": "X6 Pro",
-          "model": "PGEM10",
+          "product": "PGEM10",
           "area": 1
         }
       ]
@@ -75,42 +75,42 @@
       "list": [
         {
           "name": "N",
-          "model": "PEUM00",
+          "product": "PEUM00",
           "area": 1
         },
         {
           "name": "N2",
-          "model": "PGU110",
+          "product": "PGU110",
           "area": 1
         },
         {
           "name": "N2 Flip",
-          "model": "PGT110",
+          "product": "PGT110",
           "area": 1
         },
         {
           "name": "N2 Flip",
-          "model": "CPH2437",
+          "product": "CPH2437",
           "area": 2
         },
         {
           "name": "N2 Flip",
-          "model": "CPH2437",
+          "product": "CPH2437",
           "area": 3
         },
         {
           "name": "N3",
-          "model": "PHN110",
+          "product": "PHN110",
           "area": 1
         },
         {
           "name": "N3 Flip",
-          "model": "PHT110",
+          "product": "PHT110",
           "area": 1
         },
         {
           "name": "N3 Flip",
-          "model": "CPH2519",
+          "product": "CPH2519",
           "area": 2
         }
       ]
@@ -120,112 +120,112 @@
       "list": [
         {
           "name": "5 全网通版",
-          "model": "PEGM00",
+          "product": "PEGM00",
           "area": 1
         },
         {
           "name": "5 移动版",
-          "model": "PEGT00",
+          "product": "PEGT00",
           "area": 1
         },
         {
           "name": "5 Pro 全网通版",
-          "model": "PDSM00",
+          "product": "PDSM00",
           "area": 1
         },
         {
           "name": "5 Pro 移动版",
-          "model": "PDST00",
+          "product": "PDST00",
           "area": 1
         },
         {
           "name": "5 K 全网通版",
-          "model": "PEGM10",
+          "product": "PEGM10",
           "area": 1
         },
         {
           "name": "5 K 移动版",
-          "model": "PEGT10",
+          "product": "PEGT10",
           "area": 1
         },
         {
           "name": "5 Pro+",
-          "model": "PDRM00",
+          "product": "PDRM00",
           "area": 1
         },
         {
           "name": "6",
-          "model": "PEQM00",
+          "product": "PEQM00",
           "area": 1
         },
         {
           "name": "6 Pro",
-          "model": "PEPM00",
+          "product": "PEPM00",
           "area": 1
         },
         {
           "name": "6 Pro+",
-          "model": "PENM00",
+          "product": "PENM00",
           "area": 1
         },
         {
           "name": "7",
-          "model": "PFJM10",
+          "product": "PFJM10",
           "area": 1
         },
         {
           "name": "7 Pro",
-          "model": "PFDM00",
+          "product": "PFDM00",
           "area": 1
         },
         {
           "name": "7 SE",
-          "model": "PFCM00",
+          "product": "PFCM00",
           "area": 1
         },
         {
           "name": "8",
-          "model": "PGBM10",
+          "product": "PGBM10",
           "area": 1
         },
         {
           "name": "8 Pro",
-          "model": "PGAM10",
+          "product": "PGAM10",
           "area": 1
         },
         {
           "name": "8 Pro+",
-          "model": "PFZM10",
+          "product": "PFZM10",
           "area": 1
         },
         {
           "name": "9",
-          "model": "PHM110",
+          "product": "PHM110",
           "area": 1
         },
         {
           "name": "9 Pro",
-          "model": "PGX110",
+          "product": "PGX110",
           "area": 1
         },
         {
           "name": "9 Pro+",
-          "model": "PGW110",
+          "product": "PGW110",
           "area": 1
         },
         {
           "name": "10",
-          "model": "PHW110",
+          "product": "PHW110",
           "area": 1
         },
         {
           "name": "10 Pro",
-          "model": "PHV110",
+          "product": "PHV110",
           "area": 1
         },
         {
           "name": "10 Pro+",
-          "model": "PHU110",
+          "product": "PHU110",
           "area": 1
         }
       ]
@@ -235,22 +235,22 @@
       "list": [
         {
           "name": "R17 全网通版",
-          "model": "PBEM00",
+          "product": "PBEM00",
           "area": 1
         },
         {
           "name": "R17 移动版",
-          "model": "PBET00",
+          "product": "PBET00",
           "area": 1
         },
         {
           "name": "R17 Pro 全网通版",
-          "model": "PBDM00",
+          "product": "PBDM00",
           "area": 1
         },
         {
           "name": "R17 Pro 移动版",
-          "model": "PBDT00",
+          "product": "PBDT00",
           "area": 1
         }
       ]
@@ -260,42 +260,42 @@
       "list": [
         {
           "name": "A1 5G",
-          "model": "PHS110",
+          "product": "PHS110",
           "area": 1
         },
         {
           "name": "A1x",
-          "model": "PHJ110",
+          "product": "PHJ110",
           "area": 1
         },
         {
           "name": "A1 Pro",
-          "model": "PHQ110",
+          "product": "PHQ110",
           "area": 1
         },
         {
           "name": "A2x",
-          "model": "PJS110",
+          "product": "PJS110",
           "area": 1
         },
         {
           "name": "A2 Pro",
-          "model": "PJG110",
+          "product": "PJG110",
           "area": 1
         },
         {
           "name": "A38",
-          "model": "CPH2579",
+          "product": "CPH2579",
           "area": 2
         },
         {
           "name": "A58",
-          "model": "CPH2577",
+          "product": "CPH2577",
           "area": 2
         },
         {
           "name": "A78",
-          "model": "CPH2495",
+          "product": "CPH2495",
           "area": 2
         }
       ]
@@ -305,57 +305,57 @@
       "list": [
         {
           "name": "K7",
-          "model": "PCLM50",
+          "product": "PCLM50",
           "area": 1
         },
         {
           "name": "K7x",
-          "model": "PERM00",
+          "product": "PERM00",
           "area": 1
         },
         {
           "name": "K9",
-          "model": "PEXM00",
+          "product": "PEXM00",
           "area": 1
         },
         {
           "name": "K9s",
-          "model": "PERM10",
+          "product": "PERM10",
           "area": 1
         },
         {
           "name": "K10 活力版",
-          "model": "PERM10",
+          "product": "PERM10",
           "area": 1
         },
         {
           "name": "K9 Pro",
-          "model": "PEYM00",
+          "product": "PEYM00",
           "area": 1
         },
         {
           "name": "K10",
-          "model": "PGJM10",
+          "product": "PGJM10",
           "area": 1
         },
         {
           "name": "K10 Pro",
-          "model": "PGIM10",
+          "product": "PGIM10",
           "area": 1
         },
         {
           "name": "K10x",
-          "model": "PGGM10",
+          "product": "PGGM10",
           "area": 1
         },
         {
           "name": "K11",
-          "model": "PJC110",
+          "product": "PJC110",
           "area": 1
         },
         {
           "name": "K11x",
-          "model": "PHF110",
+          "product": "PHF110",
           "area": 1
         }
       ]
@@ -365,22 +365,22 @@
       "list": [
         {
           "name": "Pad",
-          "model": "OPD2101",
+          "product": "OPD2101",
           "area": 1
         },
         {
           "name": "Pad Air",
-          "model": "OPD2102",
+          "product": "OPD2102",
           "area": 1
         },
         {
           "name": "Pad 2",
-          "model": "OPD2201",
+          "product": "OPD2201",
           "area": 1
         },
         {
           "name": "Pad 2 Air",
-          "model": "OPD2202",
+          "product": "OPD2202",
           "area": 1
         }
       ]
@@ -392,32 +392,32 @@
       "list": [
         {
           "name": "Ace",
-          "model": "PGKM10",
+          "product": "PGKM10",
           "area": 1
         },
         {
           "name": "Ace 竞速版",
-          "model": "PGZ110",
+          "product": "PGZ110",
           "area": 1
         },
         {
           "name": "Ace Pro",
-          "model": "PGP110",
+          "product": "PGP110",
           "area": 1
         },
         {
           "name": "Ace 2",
-          "model": "PHK110",
+          "product": "PHK110",
           "area": 1
         },
         {
           "name": "Ace 2V",
-          "model": "PHP110",
+          "product": "PHP110",
           "area": 1
         },
         {
           "name": "Ace 2 Pro",
-          "model": "PJA110",
+          "product": "PJA110",
           "area": 1
         }
       ]
@@ -427,17 +427,18 @@
       "list": [
         {
           "name": "Pad",
-          "model": "OPD2203",
+          "product": "OPD2203",
           "area": 2
         },
         {
           "name": "Pad",
-          "model": "OPD2203",
+          "product": "OPD2203",
           "area": 4
         },
         {
           "name": "Pad",
-          "model": "OPD2203EEA",
+          "product": "OPD2203EEA",
+          "model": "OPD2203",
           "area": 3
         }
       ]
@@ -447,187 +448,261 @@
       "list": [
         {
           "name": "7",
-          "model": "OnePlus7_CH",
+          "product": "OnePlus7_CH",
+          "model": "GM1900",
+          "area": 1
+        },
+        {
+          "name": "7",
+          "product": "OnePlus7_CH",
+          "model": "GM1901",
+          "area": 2
+        },
+        {
+          "name": "7",
+          "product": "OnePlus7_CH",
+          "model": "GM1903",
+          "area": 3
+        },
+        {
+          "name": "7 Pro",
+          "product": "OnePlus7Pro_CH",
+          "model": "GM1910",
           "area": 1
         },
         {
           "name": "7 Pro",
-          "model": "OnePlus7Pro_CH",
+          "product": "OnePlus7Pro_IND",
+          "model": "GM1911",
+          "area": 2
+        },
+        {
+          "name": "7 Pro",
+          "product": "OnePlus7Pro_EEA",
+          "model": "GM1913",
+          "area": 3
+        },
+        {
+          "name": "7 T",
+          "product": "OnePlus7T_CH",
+          "model": "HD1900",
           "area": 1
         },
         {
           "name": "7 T",
-          "model": "OnePlus7T_CH",
+          "product": "OnePlus7T_IND",
+          "model": "HD1901",
+          "area": 2
+        },
+        {
+          "name": "7 T",
+          "product": "OnePlus7T_EEA",
+          "model": "HD1903",
+          "area": 3
+        },
+        {
+          "name": "7 T Pro",
+          "product": "OnePlus7TPro_CH",
+          "model": "HD1910",
           "area": 1
         },
         {
           "name": "7 T Pro",
-          "model": "OnePlus7TPro_CH",
+          "product": "OnePlus7TPro_IND",
+          "model": "HD1911",
+          "area": 2
+        },
+        {
+          "name": "7 T Pro",
+          "product": "OnePlus7TPro_EEA",
+          "model": "HD1913",
+          "area": 3
+        },
+        {
+          "name": "8",
+          "product": "OnePlus8_CH",
+          "model": "IN2010",
           "area": 1
         },
         {
           "name": "8",
-          "model": "OnePlus8_CH",
-          "area": 1
-        },
-        {
-          "name": "8",
-          "model": "OnePlus8_IND",
+          "product": "OnePlus8_IND",
+          "model": "IN2011",
           "area": 2
         },
         {
           "name": "8",
-          "model": "OnePlus8_EEA",
+          "product": "OnePlus8_EEA",
+          "model": "IN2013",
           "area": 3
         },
         {
           "name": "8 Pro",
-          "model": "OnePlus8Pro_CH",
+          "product": "OnePlus8Pro_CH",
+          "model": "IN2020",
           "area": 1
         },
         {
           "name": "8 Pro",
-          "model": "OnePlus8Pro_IND",
+          "product": "OnePlus8Pro_IND",
+          "model": "IN2021",
           "area": 2
         },
         {
           "name": "8 Pro",
-          "model": "OnePlus8Pro_EEA",
+          "product": "OnePlus8Pro_EEA",
+          "model": "IN2023",
           "area": 3
         },
         {
           "name": "8 T",
-          "model": "OnePlus8T_CH",
+          "product": "OnePlus8T_CH",
+          "model": "KB2000",
           "area": 1
         },
         {
           "name": "8 T",
-          "model": "OnePlus8T_IND",
+          "product": "OnePlus8T_IND",
+          "model": "KB2001",
           "area": 2
         },
         {
           "name": "8 T",
-          "model": "OnePlus8T_EEA",
+          "product": "OnePlus8T_EEA",
+          "model": "KB2003",
           "area": 3
         },
         {
           "name": "9 R",
-          "model": "OnePlus9R_CH",
+          "product": "OnePlus9R_CH",
+          "model": "LE2100",
           "area": 1
         },
         {
           "name": "9 R",
-          "model": "OnePlus9R_IND",
+          "product": "OnePlus9R_IND",
+          "model": "LE2101",
           "area": 2
         },
         {
           "name": "9",
-          "model": "OnePlus9_CH",
+          "product": "OnePlus9_CH",
+          "model": "LE2110",
           "area": 1
         },
         {
           "name": "9",
-          "model": "OnePlus9_IND",
+          "product": "OnePlus9_IND",
+          "model": "LE2111",
           "area": 2
         },
         {
           "name": "9",
-          "model": "OnePlus9_EEA",
+          "product": "OnePlus9_EEA",
+          "model": "LE2113",
           "area": 3
         },
         {
           "name": "9 Pro",
-          "model": "OnePlus9Pro_CH",
+          "product": "OnePlus9Pro_CH",
+          "model": "LE2120",
           "area": 1
         },
         {
           "name": "9 Pro",
-          "model": "OnePlus9Pro_IND",
+          "product": "OnePlus9Pro_IND",
+          "model": "LE2121",
           "area": 2
         },
         {
           "name": "9 Pro",
-          "model": "OnePlus9Pro_EEA",
+          "product": "OnePlus9Pro_EEA",
+          "model": "LE2123",
           "area": 3
         },
         {
           "name": "9 RT",
-          "model": "MT2110_CH",
+          "product": "MT2110_CH",
+          "model": "MT2110",
           "area": 1
         },
         {
           "name": "9 RT",
-          "model": "MT2111_IND",
+          "product": "MT2111_IND",
+          "model": "MT2111",
           "area": 2
         },
         {
           "name": "10 Pro",
-          "model": "NE2210",
+          "product": "NE2210",
           "area": 1
         },
         {
           "name": "10 Pro",
-          "model": "NE2211",
+          "product": "NE2211",
           "area": 2
         },
         {
           "name": "10 Pro",
+          "product": "NE2213",
+          "area": 4
+        },
+        {
+          "name": "10 Pro",
+          "product": "NE2213EEA",
           "model": "NE2213",
-          "area": 4
-        },
-        {
-          "name": "10 Pro",
-          "model": "NE2213EEA",
           "area": 3
         },
         {
           "name": "10 T",
-          "model": "CPH2413",
+          "product": "CPH2413",
           "area": 2
         },
         {
           "name": "10 T",
-          "model": "CPH2415",
+          "product": "CPH2415",
           "area": 4
         },
         {
           "name": "10 T",
-          "model": "CPH2415EEA",
+          "product": "CPH2415EEA",
+          "model": "CPH2415",
           "area": 3
         },
         {
           "name": "10 R",
-          "model": "CPH2411",
+          "product": "CPH2411",
           "area": 2
         },
         {
           "name": "10 RE",
-          "model": "CPH2423",
+          "product": "CPH2423",
           "area": 2
         },
         {
           "name": "11",
-          "model": "PHB110",
+          "product": "PHB110",
           "area": 1
         },
         {
           "name": "11",
-          "model": "CPH2447",
+          "product": "CPH2447",
           "area": 2
         },
         {
           "name": "11",
-          "model": "CPH2449",
+          "product": "CPH2449",
           "area": 4
         },
         {
           "name": "11",
-          "model": "CPH2449EEA",
+          "product": "CPH2449EEA",
+          "model": "CPH2449",
           "area": 3
         },
         {
           "name": "11 R",
-          "model": "CPH2487",
+          "product": "CPH2487",
           "area": 2
         }
       ]
@@ -637,12 +712,13 @@
       "list": [
         {
           "name": "Nord 3",
-          "model": "CPH2491",
+          "product": "CPH2491",
           "area": 2
         },
         {
           "name": "Nord 3",
-          "model": "CPH2493EEA",
+          "product": "CPH2493EEA",
+          "model": "CPH2493",
           "area": 3
         }
       ]
@@ -652,17 +728,19 @@
       "list": [
         {
           "name": "Open",
-          "model": "CPH2551IN",
+          "product": "CPH2551IN",
+          "model": "CPH2551",
           "area": 2
         },
         {
           "name": "Open",
-          "model": "CPH2551EEA",
+          "product": "CPH2551EEA",
+          "model": "CPH2551",
           "area": 3
         },
         {
           "name": "Open",
-          "model": "CPH2551",
+          "product": "CPH2551",
           "area": 4
         }
       ]
@@ -674,27 +752,27 @@
       "list": [
         {
           "name": "Q3",
-          "model": "RMX3161",
+          "product": "RMX3161",
           "area": 1
         },
         {
           "name": "Q5",
-          "model": "RMX3478",
+          "product": "RMX3478",
           "area": 1
         },
         {
           "name": "Q5 Pro",
-          "model": "RMX3372",
+          "product": "RMX3372",
           "area": 1
         },
         {
           "name": "Q5i",
-          "model": "RMX3574",
+          "product": "RMX3574",
           "area": 1
         },
         {
           "name": "Q5x",
-          "model": "RMX3616",
+          "product": "RMX3616",
           "area": 1
         }
       ]
@@ -704,17 +782,17 @@
       "list": [
         {
           "name": "V25",
-          "model": "RMX3475",
+          "product": "RMX3475",
           "area": 1
         },
         {
           "name": "V30",
-          "model": "RMX3619",
+          "product": "RMX3619",
           "area": 1
         },
         {
           "name": "V30t",
-          "model": "RMX3618",
+          "product": "RMX3618",
           "area": 1
         }
       ]
@@ -724,22 +802,22 @@
       "list": [
         {
           "name": "X7 5G",
-          "model": "RMX2176",
+          "product": "RMX2176",
           "area": 1
         },
         {
           "name": "X7 Pro 5G",
-          "model": "RMX2121",
+          "product": "RMX2121",
           "area": 1
         },
         {
           "name": "X7 Pro 至尊版 5G 全网通版",
-          "model": "RMX3115",
+          "product": "RMX3115",
           "area": 1
         },
         {
           "name": "X7 Pro 至尊版 5G 运营商定制版",
-          "model": "RMX3116",
+          "product": "RMX3116",
           "area": 1
         }
       ]
@@ -749,47 +827,47 @@
       "list": [
         {
           "name": "GT 5G",
-          "model": "RMX2202",
+          "product": "RMX2202",
           "area": 1
         },
         {
           "name": "GT 大师版",
-          "model": "RMX3361",
+          "product": "RMX3361",
           "area": 1
         },
         {
           "name": "GT 大师探索版",
-          "model": "RMX3366",
+          "product": "RMX3366",
           "area": 1
         },
         {
           "name": "GT2",
-          "model": "RMX3310",
+          "product": "RMX3310",
           "area": 1
         },
         {
           "name": "GT2",
-          "model": "RMX3312",
+          "product": "RMX3312",
           "area": 2
         },
         {
           "name": "GT2 Pro",
-          "model": "RMX3300",
+          "product": "RMX3300",
           "area": 1
         },
         {
           "name": "GT2 大师探索版",
-          "model": "RMX3551",
+          "product": "RMX3551",
           "area": 1
         },
         {
           "name": "GT5 150W",
-          "model": "RMX3820",
+          "product": "RMX3820",
           "area": 1
         },
         {
           "name": "GT5 240W",
-          "model": "RMX3823",
+          "product": "RMX3823",
           "area": 1
         }
       ]
@@ -799,72 +877,72 @@
       "list": [
         {
           "name": "GT Neo",
-          "model": "RMX3031",
+          "product": "RMX3031",
           "area": 1
         },
         {
           "name": "GT Neo",
-          "model": "RMX3031",
+          "product": "RMX3031",
           "area": 2
         },
         {
           "name": "GT Neo 闪速版",
-          "model": "RMX3350",
+          "product": "RMX3350",
           "area": 1
         },
         {
           "name": "GT Neo2",
-          "model": "RMX3370",
+          "product": "RMX3370",
           "area": 1
         },
         {
           "name": "GT Neo2",
-          "model": "RMX3370",
+          "product": "RMX3370",
           "area": 2
         },
         {
           "name": "GT Neo2",
-          "model": "RMX3370",
+          "product": "RMX3370",
           "area": 3
         },
         {
           "name": "GT Neo2T",
-          "model": "RMX3357",
+          "product": "RMX3357",
           "area": 1
         },
         {
           "name": "GT Neo3 80W",
-          "model": "RMX3560",
+          "product": "RMX3560",
           "area": 1
         },
         {
           "name": "GT Neo3 150W",
-          "model": "RMX3562",
+          "product": "RMX3562",
           "area": 1
         },
         {
           "name": "GT Neo3T",
-          "model": "RMX3371",
+          "product": "RMX3371",
           "area": 2
         },
         {
           "name": "GT Neo3T",
-          "model": "RMX3371",
+          "product": "RMX3371",
           "area": 3
         },
         {
           "name": "GT Neo5 150W",
-          "model": "RMX3706",
+          "product": "RMX3706",
           "area": 1
         },
         {
           "name": "GT Neo5 240W",
-          "model": "RMX3708",
+          "product": "RMX3708",
           "area": 1
         },
         {
           "name": "GT Neo5 SE",
-          "model": "RMX3700",
+          "product": "RMX3700",
           "area": 1
         }
       ]
@@ -874,7 +952,7 @@
       "list": [
         {
           "name": "X",
-          "model": "RMP2108",
+          "product": "RMP2108",
           "area": 1
         }
       ]
@@ -884,42 +962,42 @@
       "list": [
         {
           "name": "9",
-          "model": "RMX3521",
+          "product": "RMX3521",
           "area": 2
         },
         {
           "name": "10",
-          "model": "RMX3615",
+          "product": "RMX3615",
           "area": 1
         },
         {
           "name": "10s",
-          "model": "RMX3617",
+          "product": "RMX3617",
           "area": 1
         },
         {
           "name": "10 Pro",
-          "model": "RMX3663",
+          "product": "RMX3663",
           "area": 1
         },
         {
           "name": "10 Pro+",
-          "model": "RMX3687",
+          "product": "RMX3687",
           "area": 1
         },
         {
           "name": "11",
-          "model": "RMX3751",
+          "product": "RMX3751",
           "area": 1
         },
         {
           "name": "11 Pro",
-          "model": "RMX3770",
+          "product": "RMX3770",
           "area": 1
         },
         {
           "name": "11 Pro+",
-          "model": "RMX3740",
+          "product": "RMX3740",
           "area": 1
         }
       ]
