@@ -6,12 +6,12 @@
         {
           "name": "Reno Ace",
           "product": "PCLM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Ace2",
           "product": "PDHM00",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -21,58 +21,58 @@
         {
           "name": "X2 全网通版",
           "product": "PDEM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X2 移动版",
           "product": "PDET10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X2 Pro",
           "product": "PDEM30",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X3",
           "product": "PEDM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X3 Pro",
           "product": "PEEM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X3 Pro 摄影师版",
           "product": "PEEM00",
-          "model": "PEEM00FLU",
-          "area": 1
+          "ota": "PEEM00FLU",
+          "area": "CN"
         },
         {
           "name": "X5",
           "product": "PFFM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X5 Pro",
           "product": "PFEM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X5 Pro 天玑版",
           "product": "PFFM20",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X6",
           "product": "PGFM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X6 Pro",
           "product": "PGEM10",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -81,43 +81,43 @@
       "list": [
         {
           "name": "N",
-          "product": "PEUM00",
-          "area": 1
+          "product": "PEUEXM00",
+          "area": "CN"
         },
         {
           "name": "N2",
           "product": "PGU110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "N2 Flip",
           "product": "PGT110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "N2 Flip",
           "product": "CPH2437",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "N2 Flip",
           "product": "CPH2437",
-          "area": 3
+          "area": "EUEX"
         },
         {
           "name": "N3",
           "product": "PHN110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "N3 Flip",
           "product": "PHT110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "N3 Flip",
           "product": "CPH2519",
-          "area": 2
+          "area": "IND"
         }
       ]
     },
@@ -127,112 +127,118 @@
         {
           "name": "5 全网通版",
           "product": "PEGM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "5 移动版",
           "product": "PEGT00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "5 Pro 全网通版",
           "product": "PDSM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "5 Pro 移动版",
           "product": "PDST00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "5 K 全网通版",
           "product": "PEGM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "5 K 移动版",
           "product": "PEGT10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "5 Pro+",
           "product": "PDRM00",
-          "area": 1
+          "area": "CN"
+        },
+        {
+          "name": "5 Pro+ 艺术家限定版",
+          "product": "PDRM00",
+          "ota": "PDRM0020139",
+          "area": "CN"
         },
         {
           "name": "6",
           "product": "PEQM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "6 Pro",
           "product": "PEPM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "6 Pro+",
           "product": "PENM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "7",
           "product": "PFJM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "7 Pro",
           "product": "PFDM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "7 SE",
           "product": "PFCM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "8",
           "product": "PGBM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "8 Pro",
           "product": "PGAM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "8 Pro+",
           "product": "PFZM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "9",
           "product": "PHM110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "9 Pro",
           "product": "PGX110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "9 Pro+",
           "product": "PGW110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10",
           "product": "PHW110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10 Pro",
           "product": "PHV110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10 Pro+",
           "product": "PHU110",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -242,22 +248,22 @@
         {
           "name": "R17 全网通版",
           "product": "PBEM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "R17 移动版",
           "product": "PBET00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "R17 Pro 全网通版",
           "product": "PBDM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "R17 Pro 移动版",
           "product": "PBDT00",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -267,52 +273,52 @@
         {
           "name": "A1 5G",
           "product": "PHS110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "A1x",
           "product": "PHJ110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "A1 Pro",
           "product": "PHQ110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "A2x",
           "product": "PJS110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "A2 Pro",
           "product": "PJG110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "A38",
           "product": "CPH2579",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "A57 5G",
           "product": "PFTM20",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "A58",
           "product": "CPH2577",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "A78",
           "product": "CPH2495",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "A95 5G",
           "product": "PELM00",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -322,57 +328,57 @@
         {
           "name": "K7",
           "product": "PCLM50",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K7x",
           "product": "PERM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K9",
           "product": "PEXM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K9s",
           "product": "PERM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K10 活力版",
           "product": "PERM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K9 Pro",
           "product": "PEYM00",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K10",
           "product": "PGJM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K10 Pro",
           "product": "PGIM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K10x",
           "product": "PGGM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K11",
           "product": "PJC110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "K11x",
           "product": "PHF110",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -382,22 +388,22 @@
         {
           "name": "Pad",
           "product": "OPD2101",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Pad Air",
           "product": "OPD2102",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Pad 2",
           "product": "OPD2201",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Pad 2 Air",
           "product": "OPD2202",
-          "area": 1
+          "area": "CN"
         }
       ]
     }
@@ -409,32 +415,32 @@
         {
           "name": "Ace",
           "product": "PGKM10",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Ace 竞速版",
           "product": "PGZ110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Ace Pro",
           "product": "PGP110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Ace 2",
           "product": "PHK110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Ace 2V",
           "product": "PHP110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Ace 2 Pro",
           "product": "PJA110",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -444,18 +450,18 @@
         {
           "name": "Pad",
           "product": "OPD2203",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "Pad",
           "product": "OPD2203",
-          "area": 4
+          "area": "NA"
         },
         {
           "name": "Pad",
           "product": "OPD2203EEA",
-          "model": "OPD2203",
-          "area": 3
+          "ota": "OPD2203",
+          "area": "EUEX"
         }
       ]
     },
@@ -465,266 +471,271 @@
         {
           "name": "7",
           "product": "OnePlus7_CH",
-          "model": "GM1900",
-          "area": 1
+          "ota": "GM1900",
+          "area": "CN"
         },
         {
           "name": "7",
           "product": "OnePlus7_CH",
-          "model": "GM1901",
-          "area": 2
+          "ota": "GM1901",
+          "area": "IND"
         },
         {
           "name": "7",
           "product": "OnePlus7_CH",
-          "model": "GM1903",
-          "area": 3
+          "ota": "GM1903",
+          "area": "EUEX"
         },
         {
           "name": "7 Pro",
           "product": "OnePlus7Pro_CH",
-          "model": "GM1910",
-          "area": 1
+          "ota": "GM1910",
+          "area": "CN"
         },
         {
           "name": "7 Pro",
           "product": "OnePlus7Pro_IND",
-          "model": "GM1911",
-          "area": 2
+          "ota": "GM1911",
+          "area": "IND"
         },
         {
           "name": "7 Pro",
           "product": "OnePlus7Pro_EEA",
-          "model": "GM1913",
-          "area": 3
+          "ota": "GM1913",
+          "area": "EUEX"
         },
         {
           "name": "7 T",
           "product": "OnePlus7T_CH",
-          "model": "HD1900",
-          "area": 1
+          "ota": "HD1900",
+          "area": "CN"
         },
         {
           "name": "7 T",
           "product": "OnePlus7T_IND",
-          "model": "HD1901",
-          "area": 2
+          "ota": "HD1901",
+          "area": "IND"
         },
         {
           "name": "7 T",
           "product": "OnePlus7T_EEA",
-          "model": "HD1903",
-          "area": 3
+          "ota": "HD1903",
+          "area": "EUEX"
         },
         {
           "name": "7 T Pro",
           "product": "OnePlus7TPro_CH",
-          "model": "HD1910",
-          "area": 1
+          "ota": "HD1910",
+          "area": "CN"
         },
         {
           "name": "7 T Pro",
           "product": "OnePlus7TPro_IND",
-          "model": "HD1911",
-          "area": 2
+          "ota": "HD1911",
+          "area": "IND"
         },
         {
           "name": "7 T Pro",
           "product": "OnePlus7TPro_EEA",
-          "model": "HD1913",
-          "area": 3
+          "ota": "HD1913",
+          "area": "EUEX"
         },
         {
           "name": "8",
           "product": "OnePlus8_CH",
-          "model": "IN2010",
-          "area": 1
+          "ota": "IN2010",
+          "area": "CN"
         },
         {
           "name": "8",
           "product": "OnePlus8_IND",
-          "model": "IN2011",
-          "area": 2
+          "ota": "IN2011",
+          "area": "IND"
         },
         {
           "name": "8",
           "product": "OnePlus8_EEA",
-          "model": "IN2013",
-          "area": 3
+          "ota": "IN2013",
+          "area": "EUEX"
         },
         {
           "name": "8 Pro",
           "product": "OnePlus8Pro_CH",
-          "model": "IN2020",
-          "area": 1
+          "ota": "IN2020",
+          "area": "CN"
         },
         {
           "name": "8 Pro",
           "product": "OnePlus8Pro_IND",
-          "model": "IN2021",
-          "area": 2
+          "ota": "IN2021",
+          "area": "IND"
         },
         {
           "name": "8 Pro",
           "product": "OnePlus8Pro_EEA",
-          "model": "IN2023",
-          "area": 3
+          "ota": "IN2023",
+          "area": "EUEX"
         },
         {
           "name": "8 T",
           "product": "OnePlus8T_CH",
-          "model": "KB2000",
-          "area": 1
+          "ota": "KB2000",
+          "area": "CN"
         },
         {
           "name": "8 T",
           "product": "OnePlus8T_IND",
-          "model": "KB2001",
-          "area": 2
+          "ota": "KB2001",
+          "area": "IND"
         },
         {
           "name": "8 T",
           "product": "OnePlus8T_EEA",
-          "model": "KB2003",
-          "area": 3
+          "ota": "KB2003",
+          "area": "EUEX"
         },
         {
           "name": "9 R",
           "product": "OnePlus9R_CH",
-          "model": "LE2100",
-          "area": 1
+          "ota": "LE2100",
+          "area": "CN"
         },
         {
           "name": "9 R",
           "product": "OnePlus9R_IND",
-          "model": "LE2101",
-          "area": 2
+          "ota": "LE2101",
+          "area": "IND"
         },
         {
           "name": "9",
           "product": "OnePlus9_CH",
-          "model": "LE2110",
-          "area": 1
+          "ota": "LE2110",
+          "area": "CN"
         },
         {
           "name": "9",
           "product": "OnePlus9_IND",
-          "model": "LE2111",
-          "area": 2
+          "ota": "LE2111",
+          "area": "IND"
         },
         {
           "name": "9",
           "product": "OnePlus9_EEA",
-          "model": "LE2113",
-          "area": 3
+          "ota": "LE2113",
+          "area": "EUEX"
         },
         {
           "name": "9 Pro",
           "product": "OnePlus9Pro_CH",
-          "model": "LE2120",
-          "area": 1
+          "ota": "LE2120",
+          "area": "CN"
         },
         {
           "name": "9 Pro",
           "product": "OnePlus9Pro_IND",
-          "model": "LE2121",
-          "area": 2
+          "ota": "LE2121",
+          "area": "IND"
         },
         {
           "name": "9 Pro",
           "product": "OnePlus9Pro_EEA",
-          "model": "LE2123",
-          "area": 3
+          "ota": "LE2123",
+          "area": "EUEX"
         },
         {
           "name": "9 RT",
           "product": "MT2110_CH",
-          "model": "MT2110",
-          "area": 1
+          "ota": "MT2110",
+          "area": "CN"
         },
         {
           "name": "9 RT",
           "product": "MT2111_IND",
-          "model": "MT2111",
-          "area": 2
+          "ota": "MT2111",
+          "area": "IND"
         },
         {
           "name": "10 Pro",
           "product": "NE2210",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10 Pro",
           "product": "NE2211",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "10 Pro",
           "product": "NE2213EEA",
-          "model": "NE2213",
-          "area": 3
+          "ota": "NE2213",
+          "area": "EUEX"
         },
         {
           "name": "10 Pro",
           "product": "NE2213",
-          "area": 5
+          "area": "GLO"
         },
         {
           "name": "10 T",
           "product": "CPH2413",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "10 T",
           "product": "CPH2415",
-          "area": 4
+          "area": "NA"
         },
         {
           "name": "10 T",
           "product": "CPH2415EEA",
-          "model": "CPH2415",
-          "area": 3
+          "ota": "CPH2415",
+          "area": "EUEX"
         },
         {
           "name": "10 T",
           "product": "CPH2415",
-          "area": 5
+          "area": "GLO"
         },
         {
           "name": "10 R",
           "product": "CPH2411",
-          "area": 2
+          "area": "IND"
+        },
+        {
+          "name": "10 R Endurance Edition",
+          "product": "CPH2423",
+          "area": "IND"
         },
         {
           "name": "10 RE",
           "product": "CPH2423",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "11",
           "product": "PHB110",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "11",
           "product": "CPH2447",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "11",
           "product": "CPH2449",
-          "area": 4
+          "area": "NA"
         },
         {
           "name": "11",
           "product": "CPH2449EEA",
-          "model": "CPH2449",
-          "area": 3
+          "ota": "CPH2449",
+          "area": "EUEX"
         },
         {
           "name": "11 R",
           "product": "CPH2487",
-          "area": 2
+          "area": "IND"
         }
       ]
     },
@@ -732,15 +743,30 @@
       "name": "Nord",
       "list": [
         {
+          "name": "Nord 2",
+          "product": "DN2101",
+          "area": "IND"
+        },
+        {
+          "name": "Nord 2",
+          "product": "DN2103",
+          "area": "EEA"
+        },
+        {
+          "name": "Nord 2",
+          "product": "DN2103",
+          "area": "EU"
+        },
+        {
           "name": "Nord 3",
           "product": "CPH2491",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "Nord 3",
           "product": "CPH2493EEA",
-          "model": "CPH2493",
-          "area": 3
+          "ota": "CPH2493",
+          "area": "EUEX"
         }
       ]
     },
@@ -750,19 +776,19 @@
         {
           "name": "Open",
           "product": "CPH2551IN",
-          "model": "CPH2551",
-          "area": 2
+          "ota": "CPH2551",
+          "area": "IND"
         },
         {
           "name": "Open",
           "product": "CPH2551EEA",
-          "model": "CPH2551",
-          "area": 3
+          "ota": "CPH2551",
+          "area": "EUEX"
         },
         {
           "name": "Open",
           "product": "CPH2551",
-          "area": 4
+          "area": "NA"
         }
       ]
     }
@@ -774,27 +800,27 @@
         {
           "name": "Q3",
           "product": "RMX3161",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Q5",
           "product": "RMX3478",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Q5 Pro",
           "product": "RMX3372",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Q5i",
           "product": "RMX3574",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "Q5x",
           "product": "RMX3616",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -804,17 +830,17 @@
         {
           "name": "V25",
           "product": "RMX3475",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "V30",
           "product": "RMX3619",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "V30t",
           "product": "RMX3618",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -824,22 +850,22 @@
         {
           "name": "X7 5G",
           "product": "RMX2176",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X7 Pro 5G",
           "product": "RMX2121",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X7 Pro 至尊版 5G 全网通版",
           "product": "RMX3115",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "X7 Pro 至尊版 5G 运营商定制版",
           "product": "RMX3116",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -849,47 +875,47 @@
         {
           "name": "GT 5G",
           "product": "RMX2202",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT 大师版",
           "product": "RMX3361",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT 大师探索版",
           "product": "RMX3366",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT2",
           "product": "RMX3310",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT2",
           "product": "RMX3312",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "GT2 Pro",
           "product": "RMX3300",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT2 大师探索版",
           "product": "RMX3551",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT5 150W",
           "product": "RMX3820",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT5 240W",
           "product": "RMX3823",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -899,72 +925,72 @@
         {
           "name": "GT Neo",
           "product": "RMX3031",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo",
           "product": "RMX3031",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "GT Neo 闪速版",
           "product": "RMX3350",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo2",
           "product": "RMX3370",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo2",
           "product": "RMX3370",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "GT Neo2",
           "product": "RMX3370",
-          "area": 3
+          "area": "EUEX"
         },
         {
           "name": "GT Neo2T",
           "product": "RMX3357",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo3 80W",
           "product": "RMX3560",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo3 150W",
           "product": "RMX3562",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo3T",
           "product": "RMX3371",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "GT Neo3T",
           "product": "RMX3371",
-          "area": 3
+          "area": "EUEX"
         },
         {
           "name": "GT Neo5 150W",
           "product": "RMX3706",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo5 240W",
           "product": "RMX3708",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "GT Neo5 SE",
           "product": "RMX3700",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -974,7 +1000,7 @@
         {
           "name": "X",
           "product": "RMP2108",
-          "area": 1
+          "area": "CN"
         }
       ]
     },
@@ -984,42 +1010,42 @@
         {
           "name": "9",
           "product": "RMX3521",
-          "area": 2
+          "area": "IND"
         },
         {
           "name": "10",
           "product": "RMX3615",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10s",
           "product": "RMX3617",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10 Pro",
           "product": "RMX3663",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "10 Pro+",
           "product": "RMX3687",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "11",
           "product": "RMX3751",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "11 Pro",
           "product": "RMX3770",
-          "area": 1
+          "area": "CN"
         },
         {
           "name": "11 Pro+",
           "product": "RMX3740",
-          "area": 1
+          "area": "CN"
         }
       ]
     }
