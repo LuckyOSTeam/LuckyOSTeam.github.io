@@ -44,6 +44,12 @@
           "area": 1
         },
         {
+          "name": "X3 Pro 摄影师版",
+          "product": "PEEM00",
+          "model": "PEEM00FLU",
+          "area": 1
+        },
+        {
           "name": "X5",
           "product": "PFFM10",
           "area": 1
@@ -289,6 +295,11 @@
           "area": 2
         },
         {
+          "name": "A57 5G",
+          "product": "PFTM20",
+          "area": 1
+        },
+        {
           "name": "A58",
           "product": "CPH2577",
           "area": 2
@@ -297,6 +308,11 @@
           "name": "A78",
           "product": "CPH2495",
           "area": 2
+        },
+        {
+          "name": "A95 5G",
+          "product": "PELM00",
+          "area": 1
         }
       ]
     },
@@ -668,6 +684,11 @@
           "product": "CPH2415EEA",
           "model": "CPH2415",
           "area": 3
+        },
+        {
+          "name": "10 T",
+          "product": "CPH2415",
+          "area": 5
         },
         {
           "name": "10 R",
