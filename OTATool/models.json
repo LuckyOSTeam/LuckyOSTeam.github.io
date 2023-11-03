@@ -484,6 +484,11 @@
           "name": "A95 5G",
           "product": "PELM00",
           "area": "CN"
+        },
+        {
+          "name": "A97 5G",
+          "product": "PFTM10",
+          "area": "CN"
         }
       ]
     },
