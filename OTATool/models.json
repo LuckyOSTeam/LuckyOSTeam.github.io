@@ -476,6 +476,11 @@
           "area": "IND"
         },
         {
+          "name": "A93s ",
+          "product": "PFGM00",
+          "area": "CN"
+        },
+        {
           "name": "A95 5G",
           "product": "PELM00",
           "area": "CN"
@@ -1193,9 +1198,34 @@
       "name": "数字",
       "list": [
         {
-          "name": "9",
+          "name": "9 4G",
           "product": "RMX3521",
           "area": "IND"
+        },
+        {
+          "name": "9 5G",
+          "product": "RMX3388",
+          "area": "IND"
+        },
+        {
+          "name": "9 5G",
+          "product": "RMX3474",
+          "area": "EUEX"
+        },
+        {
+          "name": "9i",
+          "product": "RMX3491",
+          "area": "IND"
+        },
+        {
+          "name": "9i 5G",
+          "product": "RMX3612",
+          "area": "IND"
+        },
+        {
+          "name": "9i",
+          "product": "RMX3493",
+          "area": "EUEX"
         },
         {
           "name": "10",
@@ -1213,6 +1243,11 @@
           "area": "CN"
         },
         {
+          "name": "10 Pro",
+          "product": "RMX3660",
+          "area": "IND"
+        },
+        {
           "name": "10 Pro+",
           "product": "RMX3687",
           "area": "CN"
@@ -1221,6 +1256,16 @@
           "name": "11",
           "product": "RMX3751",
           "area": "CN"
+        },
+        {
+          "name": "11 5G",
+          "product": "RMX3780",
+          "area": "IND"
+        },
+        {
+          "name": "11x",
+          "product": "RMX3785",
+          "area": "IND"
         },
         {
           "name": "11 Pro",
