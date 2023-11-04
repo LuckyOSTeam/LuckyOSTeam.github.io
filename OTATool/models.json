@@ -962,6 +962,22 @@
           "product": "CPH2493EEA",
           "ota": "CPH2493",
           "area": "EUEX"
+        },
+        {
+          "name": "Nord CE 3",
+          "product": "CPH2569",
+          "area": "IND"
+        },
+        {
+          "name": "Nord CE 3 Lite",
+          "product": "CPH2465",
+          "area": "IND"
+        },
+        {
+          "name": "Nord CE 3 Lite",
+          "product": "CPH2465EEA",
+          "ota": "CPH2465",
+          "area": "EUEX"
         }
       ]
     },
