@@ -369,6 +369,16 @@
           "name": "10 Pro+",
           "product": "PHU110",
           "area": "CN"
+        },
+        {
+          "name": "11",
+          "product": "PJH110",
+          "area": "CN"
+        },
+        {
+          "name": "11 Pro",
+          "product": "PJJ110",
+          "area": "CN"
         }
       ]
     },
@@ -1039,6 +1049,16 @@
       "name": "V",
       "list": [
         {
+          "name": "V23",
+          "product": "RMX3571",
+          "area": "CN"
+        },
+        {
+          "name": "V23i",
+          "product": "RMX3576",
+          "area": "CN"
+        },
+        {
           "name": "V25",
           "product": "RMX3475",
           "area": "CN"
@@ -1051,6 +1071,16 @@
         {
           "name": "V30t",
           "product": "RMX3618",
+          "area": "CN"
+        },
+        {
+          "name": "V50",
+          "product": "RMX3783",
+          "area": "CN"
+        },
+        {
+          "name": "V50s",
+          "product": "RMX3781",
           "area": "CN"
         }
       ]
