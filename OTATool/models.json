@@ -633,8 +633,20 @@
           "area": "CN"
         },
         {
+          "name": "Ace Pro 原神限定版",
+          "product": "PGP110",
+          "ota": "PGP110Ovt",
+          "area": "CN"
+        },
+        {
           "name": "Ace 2",
           "product": "PHK110",
+          "area": "CN"
+        },
+        {
+          "name": "Ace 2 原神定制礼盒",
+          "product": "PHK110",
+          "ota": "PHK110YS",
           "area": "CN"
         },
         {
