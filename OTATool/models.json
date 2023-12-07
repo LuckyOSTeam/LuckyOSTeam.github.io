@@ -924,11 +924,6 @@
           "area": "IND"
         },
         {
-          "name": "10 RE",
-          "product": "CPH2423",
-          "area": "IND"
-        },
-        {
           "name": "11",
           "product": "PHB110",
           "area": "CN"
@@ -953,6 +948,11 @@
           "name": "11 R",
           "product": "CPH2487",
           "area": "IND"
+        },
+        {
+          "name": "12",
+          "product": "PJD110",
+          "area": "CN"
         }
       ]
     },
