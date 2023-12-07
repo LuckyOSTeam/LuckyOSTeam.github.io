@@ -1169,6 +1169,11 @@
           "name": "GT5 240W",
           "product": "RMX3823",
           "area": "CN"
+        },
+        {
+          "name": "GT5 Pro",
+          "product": "RMX3888",
+          "area": "CN"
         }
       ]
     },
