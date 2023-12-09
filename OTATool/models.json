@@ -679,6 +679,16 @@
           "product": "OPD2203EEA",
           "ota": "OPD2203",
           "area": "EUEX"
+        },
+        {
+          "name": "Pad Go WiFi",
+          "product": "OPD2304",
+          "area": "IND"
+        },
+        {
+          "name": "Pad Go LTE",
+          "product": "OPD2305",
+          "area": "IND"
         }
       ]
     },
