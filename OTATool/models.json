@@ -93,6 +93,16 @@
           "name": "Find X6 Pro",
           "product": "PGEM10",
           "area": "CN"
+        },
+        {
+          "name": "Find X7",
+          "product": "PHZ110",
+          "area": "CN"
+        },
+        {
+          "name": "Find X7 Pro",
+          "product": "PHY110",
+          "area": "CN"
         }
       ]
     },
@@ -658,6 +668,11 @@
           "name": "Ace 2 Pro",
           "product": "PJA110",
           "area": "CN"
+        },
+        {
+          "name": "Ace 3",
+          "product": "PJE110",
+          "area": "CN"
         }
       ]
     },
@@ -681,12 +696,12 @@
           "area": "EUEX"
         },
         {
-          "name": "Pad Go WiFi",
+          "name": "Pad Go LTE",
           "product": "OPD2304",
           "area": "IND"
         },
         {
-          "name": "Pad Go LTE",
+          "name": "Pad Go Wi-Fi",
           "product": "OPD2305",
           "area": "IND"
         }
@@ -962,6 +977,11 @@
         {
           "name": "12",
           "product": "PJD110",
+          "area": "CN"
+        },
+        {
+          "name": "12 R",
+          "product": "PJE110",
           "area": "CN"
         }
       ]
