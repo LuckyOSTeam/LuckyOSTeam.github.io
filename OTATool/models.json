@@ -100,7 +100,7 @@
           "area": "CN"
         },
         {
-          "name": "Find X7 Pro",
+          "name": "Find X7 Ultra",
           "product": "PHY110",
           "area": "CN"
         }
@@ -451,18 +451,313 @@
       "name": "A",
       "list": [
         {
+          "name": "A3 全网通版",
+          "product": "PADM00",
+          "area": "CN"
+        },
+        {
+          "name": "A3 移动版",
+          "product": "PADT00",
+          "area": "CN"
+        },
+        {
           "name": "A1 5G",
           "product": "PHS110",
           "area": "CN"
         },
         {
-          "name": "A1x",
+          "name": "A5 全网通版",
+          "product": "PBAM00",
+          "area": "CN"
+        },
+        {
+          "name": "A5 ODM 全网通版",
+          "product": "PBBM30",
+          "area": "CN"
+        },
+        {
+          "name": "A5 移动版",
+          "product": "PBAT00",
+          "area": "CN"
+        },
+        {
+          "name": "A5 ODM 移动版",
+          "product": "PBBT30",
+          "area": "CN"
+        },
+        {
+          "name": "A7 全网通版",
+          "product": "PBFM00",
+          "area": "CN"
+        },
+        {
+          "name": "A7 移动版",
+          "product": "PBFT00",
+          "area": "CN"
+        },
+        {
+          "name": "A7x 全网通版",
+          "product": "PBBM00",
+          "area": "CN"
+        },
+        {
+          "name": "A7x 移动版",
+          "product": "PBBT00",
+          "area": "CN"
+        },
+        {
+          "name": "A7n 全网通版",
+          "product": "PCDM00",
+          "area": "CN"
+        },
+        {
+          "name": "A7n 移动版",
+          "product": "PCDT00",
+          "area": "CN"
+        },
+        {
+          "name": "A8 全网通版",
+          "product": "PDBM00",
+          "area": "CN"
+        },
+        {
+          "name": "A8 移动版",
+          "product": "PDBT00",
+          "area": "CN"
+        },
+        {
+          "name": "A9 全网通版",
+          "product": "PCAM10",
+          "area": "CN"
+        },
+        {
+          "name": "A9 移动版",
+          "product": "PCAT10",
+          "area": "CN"
+        },
+        {
+          "name": "A9x 全网通版",
+          "product": "PCEM00",
+          "area": "CN"
+        },
+        {
+          "name": "A9x 移动版",
+          "product": "PCET00",
+          "area": "CN"
+        },
+        {
+          "name": "A11 全网通版",
+          "product": "PCHM10",
+          "area": "CN"
+        },
+        {
+          "name": "A11 移动版",
+          "product": "PCHT10",
+          "area": "CN"
+        },
+        {
+          "name": "A11x 全网通版",
+          "product": "PCHM30",
+          "area": "CN"
+        },
+        {
+          "name": "A11x 移动版",
+          "product": "PCHT30",
+          "area": "CN"
+        },
+        {
+          "name": "A11n 全网通版",
+          "product": "PCHM00",
+          "area": "CN"
+        },
+        {
+          "name": "A11n 移动版",
+          "product": "PCHT00",
+          "area": "CN"
+        },
+        {
+          "name": "A11s",
+          "product": "PDVM00",
+          "area": "CN"
+        },
+        {
+          "name": "A32",
+          "product": "PDVM00",
+          "area": "CN"
+        },
+        {
+          "name": "A35",
+          "product": "PEFM00",
+          "area": "CN"
+        },
+        {
+          "name": "A36",
+          "product": "PESM10",
+          "area": "CN"
+        },
+        {
+          "name": "A52 全网通版",
+          "product": "PDAM10",
+          "area": "CN"
+        },
+        {
+          "name": "A52 移动版",
+          "product": "PDAT10",
+          "area": "CN"
+        },
+        {
+          "name": "A53 (2020) 天玑版 全网通版",
+          "product": "PECM20",
+          "area": "CN"
+        },
+        {
+          "name": "A53 (2020) 骁龙版 全网通版",
+          "product": "PECM20",
+          "area": "CN"
+        },
+        {
+          "name": "A53 (2020) 移动版",
+          "product": "PECT30",
+          "area": "CN"
+        },
+        {
+          "name": "A55 全网通版",
+          "product": "PEMM00",
+          "area": "CN"
+        },
+        {
+          "name": "A55 ODM 全网通版",
+          "product": "PEMM20",
+          "area": "CN"
+        },
+        {
+          "name": "A55 移动版",
+          "product": "PEMT00",
+          "area": "CN"
+        },
+        {
+          "name": "A55 ODM 移动版",
+          "product": "PEMT20",
+          "area": "CN"
+        },
+        {
+          "name": "A56",
+          "product": "PFVM10",
+          "area": "CN"
+        },
+        {
+          "name": "A56s",
+          "product": "PFTM20",
+          "area": "CN"
+        },
+        {
+          "name": "A57 (2022)",
+          "product": "PFTM20",
+          "area": "CN"
+        },
+        {
+          "name": "A58",
           "product": "PHJ110",
+          "area": "CN"
+        },
+        {
+          "name": "A58x",
+          "product": "PHJ110",
+          "area": "CN"
+        },
+        {
+          "name": "A72 全网通版",
+          "product": "PDYM20",
+          "area": "CN"
+        },
+        {
+          "name": "A72 移动版",
+          "product": "PDYT20",
+          "area": "CN"
+        },
+        {
+          "name": "A72n",
+          "product": "PDYM10",
+          "area": "CN"
+        },
+        {
+          "name": "A91 全网通版",
+          "product": "PCPM00",
+          "area": "CN"
+        },
+        {
+          "name": "A91 移动版",
+          "product": "PCPT00",
+          "area": "CN"
+        },
+        {
+          "name": "A92s 全网通版",
+          "product": "PDKM00",
+          "area": "CN"
+        },
+        {
+          "name": "A92s 移动版",
+          "product": "PDKT00",
+          "area": "CN"
+        },
+        {
+          "name": "A93 全网通版",
+          "product": "PEHM00",
+          "area": "CN"
+        },
+        {
+          "name": "A93 移动版",
+          "product": "PEHT00",
+          "area": "CN"
+        },
+        {
+          "name": "A93s",
+          "product": "PFGM00",
+          "area": "CN"
+        },
+        {
+          "name": "A95",
+          "product": "PELM00",
+          "area": "CN"
+        },
+        {
+          "name": "A96",
+          "product": "PFUM10",
+          "area": "CN"
+        },
+        {
+          "name": "A96 ODM",
+          "product": "PHA120",
+          "area": "CN"
+        },
+        {
+          "name": "A97",
+          "product": "PFTM10",
+          "area": "CN"
+        },
+        {
+          "name": "A1 (2023)",
+          "product": "PHS110",
           "area": "CN"
         },
         {
           "name": "A1 Pro",
           "product": "PHQ110",
+          "area": "CN"
+        },
+        {
+          "name": "A1x / A1 活力版",
+          "product": "PHJ110",
+          "area": "CN"
+        },
+        {
+          "name": "A2",
+          "product": "PJB110",
+          "area": "CN"
+        },
+        {
+          "name": "A2m",
+          "product": "PJU110",
           "area": "CN"
         },
         {
@@ -481,11 +776,6 @@
           "area": "IND"
         },
         {
-          "name": "A57 5G",
-          "product": "PFTM20",
-          "area": "CN"
-        },
-        {
           "name": "A58",
           "product": "CPH2577",
           "area": "IND"
@@ -494,21 +784,6 @@
           "name": "A78",
           "product": "CPH2495",
           "area": "IND"
-        },
-        {
-          "name": "A93s ",
-          "product": "PFGM00",
-          "area": "CN"
-        },
-        {
-          "name": "A95 5G",
-          "product": "PELM00",
-          "area": "CN"
-        },
-        {
-          "name": "A97 5G",
-          "product": "PFTM10",
-          "area": "CN"
         }
       ]
     },
