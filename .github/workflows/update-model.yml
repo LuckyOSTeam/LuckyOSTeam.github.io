@@ -2,10 +2,10 @@ name: Update Model
 
 on:
   # 每当 push 到 main 分支时触发部署
-  push:
-    paths:
-      - ".github/workflows/update-model.yml"
-      - "OTATool/*.json"
+  # push:
+  #   paths:
+  #     - ".github/workflows/update-model.yml"
+  #     - "OTATool/*.json"
   # 手动触发部署
   workflow_dispatch:
 
@@ -34,7 +34,7 @@ jobs:
 
       - name: Get commit date
         id: date
-        run: echo "time=$(git log -1 --pretty=format:"%ci" | sed 's/ //g; s/-//g; s/://g;' | cut -b 1-12)" >> $GITHUB_OUTPUT
+        run: echo "time=$(date +%F%T | sed 's/-//g; s/://g;')" >> $GITHUB_OUTPUT
 
       - name: Automatic Releases
         uses: marvinpinto/action-automatic-releases@v1.2.1
