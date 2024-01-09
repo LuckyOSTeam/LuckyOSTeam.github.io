@@ -386,9 +386,19 @@
           "area": "CN"
         },
         {
+          "name": "Reno 11",
+          "product": "CPH2599",
+          "area": "IND"
+        },
+        {
           "name": "Reno 11 Pro",
           "product": "PJJ110",
           "area": "CN"
+        },
+        {
+          "name": "Reno 11 Pro",
+          "product": "CPH2607",
+          "area": "IND"
         }
       ]
     },
