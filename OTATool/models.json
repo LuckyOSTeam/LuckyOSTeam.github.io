@@ -1265,8 +1265,13 @@
           "area": "CN"
         },
         {
+          "name": "12",
+          "product": "CPH2573",
+          "area": "IND"
+        },
+        {
           "name": "12 R",
-          "product": "PJE110",
+          "product": "CPH2611",
           "area": "IND"
         }
       ]
