@@ -3624,6 +3624,42 @@
           "unit": "RMB"
         }
       ]
+    },
+    {
+      "name": "wzgrx",
+      "details": [
+        {
+          "time": "20240124-002823",
+          "channel": "WeChat",
+          "money": 50,
+          "order": "10000499012024012400335499916198",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "*逑",
+      "details": [
+        {
+          "time": "20240126-151952",
+          "channel": "WeChat",
+          "money": 6,
+          "order": "10000499012024012601556679783623",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "weison",
+      "details": [
+        {
+          "time": "20240131-155346",
+          "channel": "WeChat",
+          "money": 10,
+          "order": "10000499012024013101629830439536",
+          "unit": "RMB"
+        }
+      ]
     }
   ]
 }
