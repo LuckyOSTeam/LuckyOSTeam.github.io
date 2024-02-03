@@ -75,6 +75,11 @@
           "nvid": "97"
         },
         {
+          "name": "Find X5 Lite",
+          "product": "CPH2371",
+          "nvid": "1B"
+        },
+        {
           "name": "Find X5 Pro",
           "product": "PFEM10",
           "nvid": "97"
@@ -102,6 +107,11 @@
         {
           "name": "Find X7 Ultra",
           "product": "PHY110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X7 Ultra 卫星通信版",
+          "product": "PHY120",
           "nvid": "97"
         }
       ]
@@ -1678,6 +1688,26 @@
           "name": "11 Pro+",
           "product": "RMX3740",
           "nvid": "97"
+        },
+        {
+          "name": "12 Pro",
+          "product": "RMX3843",
+          "nvid": "97"
+        },
+        {
+          "name": "12 Pro",
+          "product": "RMX3842",
+          "nvid": "1B"
+        },
+        {
+          "name": "12 Pro+",
+          "product": "RMX3841",
+          "nvid": "97"
+        },
+        {
+          "name": "12 Pro+",
+          "product": "RMX3840",
+          "nvid": "1B"
         }
       ]
     }
