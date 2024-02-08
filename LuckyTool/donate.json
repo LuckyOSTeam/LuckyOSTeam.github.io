@@ -3727,6 +3727,18 @@
           "unit": "RMB"
         }
       ]
+    },
+    {
+      "name": "daxiaamu",
+      "details": [
+        {
+          "time": "20240207-215334",
+          "channel": "WeChat",
+          "money": 88,
+          "order": "10001071012024020701844986875511",
+          "unit": "RMB"
+        }
+      ]
     }
   ]
 }
