@@ -3751,6 +3751,54 @@
           "unit": "RMB"
         }
       ]
+    },
+    {
+      "name": "*冲",
+      "details": [
+        {
+          "time": "20240209-090024",
+          "channel": "WeChat",
+          "money": 30,
+          "order": "10001071012024020900600069343051",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "Sandy",
+      "details": [
+        {
+          "time": "20240211-102946",
+          "channel": "WeChat",
+          "money": 8.88,
+          "order": "10001071012024021100957413694112",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "Pull",
+      "details": [
+        {
+          "time": "20240211-231656",
+          "channel": "AliPay",
+          "money": 18.88,
+          "order": "2024021122001436461412906356",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "一位小萌新",
+      "details": [
+        {
+          "time": "20240212-231103",
+          "channel": "WeChat",
+          "money": 30,
+          "order": "10001071012024021201594040004523",
+          "unit": "RMB"
+        }
+      ]
     }
   ]
 }
