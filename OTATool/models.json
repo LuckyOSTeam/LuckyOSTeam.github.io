@@ -1288,8 +1288,19 @@
         },
         {
           "name": "12 R",
+          "product": "CPH2581EEA",
+          "ota": "CPH2581",
+          "nvid": "44"
+        },
+        {
+          "name": "12 R",
           "product": "CPH2609",
           "nvid": "A7"
+        },
+        {
+          "name": "12 R",
+          "product": "CPH2611",
+          "nvid": "A1"
         }
       ]
     },
