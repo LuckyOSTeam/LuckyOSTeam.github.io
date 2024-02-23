@@ -1415,6 +1415,11 @@
       "name": "V",
       "list": [
         {
+          "name": "V13 全网通版",
+          "product": "RMX3041",
+          "nvid": "97"
+        },
+        {
           "name": "V23",
           "product": "RMX3571",
           "nvid": "97"
