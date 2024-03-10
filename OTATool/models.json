@@ -913,7 +913,127 @@
         },
         {
           "name": "Pad 2 Air",
-          "product": "OPD2202",
+          "product": "OPD2301",
+          "nvid": "97"
+        }
+      ]
+    },
+    {
+      "name": "Watch",
+      "list": [
+        {
+          "name": "Watch RX / 英雄联盟限定版",
+          "product": "OR19R1",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch Free 标准版",
+          "product": "OWW206",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch Free NFC 版",
+          "product": "OWW208",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 46mm / EVA 限定版 / 故宫新禧版",
+          "product": "OW19W1",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 41mm",
+          "product": "OW19W2",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch ECG / 精钢版",
+          "product": "OW19W3",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 2 42mm 蓝牙版",
+          "product": "OWW202",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 2 46mm eSIM 版 / 李宁限定版",
+          "product": "OW20W1",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 2 42mm eSIM 版 / 名侦探柯南限定版",
+          "product": "OW20W2",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 2 46mm ECG",
+          "product": "OW20W3",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 3",
+          "product": "OWW212",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 3 Pro",
+          "product": "OWW211",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch SE",
+          "product": "OWW213",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 4 Pro",
+          "product": "OWW221",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch X",
+          "product": "OWW231",
+          "nvid": "97"
+        }
+      ]
+    },
+    {
+      "name": "Band",
+      "list": [
+        {
+          "name": "Band 标准版 / 名侦探柯南限定版",
+          "product": "OB19B1",
+          "nvid": "97"
+        },
+        {
+          "name": "Band NFC 版",
+          "product": "OB19B3",
+          "nvid": "97"
+        },
+        {
+          "name": "Band 时尚版",
+          "product": "OB19O0",
+          "nvid": "97"
+        },
+        {
+          "name": "Band 运动版",
+          "product": "OB19O1",
+          "nvid": "97"
+        },
+        {
+          "name": "Band EVA 限定版",
+          "product": "OB19O2",
+          "nvid": "97"
+        },
+        {
+          "name": "Band 2 标准版",
+          "product": "OBB211",
+          "nvid": "97"
+        },
+        {
+          "name": "Band 2 NFC 版",
+          "product": "OBB213",
           "nvid": "97"
         }
       ]
