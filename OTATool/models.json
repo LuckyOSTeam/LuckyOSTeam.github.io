@@ -1089,6 +1089,11 @@
           "name": "Ace 3",
           "product": "PJE110",
           "nvid": "97"
+        },
+        {
+          "name": "Ace 3V",
+          "product": "PJF110",
+          "nvid": "97"
         }
       ]
     },
