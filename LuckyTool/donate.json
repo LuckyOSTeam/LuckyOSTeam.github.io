@@ -4151,6 +4151,42 @@
           "unit": "RMB"
         }
       ]
+    },
+    {
+      "name": "*释",
+      "details": [
+        {
+          "time": "20240402-200546",
+          "channel": "WeChat",
+          "money": 6.66,
+          "order": "10001071012024040201378889817565",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "CSX",
+      "details": [
+        {
+          "time": "20240403-082238",
+          "channel": "AliPay",
+          "money": 6,
+          "order": "2024040322001455871418290396",
+          "unit": "RMB"
+        }
+      ]
+    },
+    {
+      "name": "BuGu_Offical",
+      "details": [
+        {
+          "time": "20240404-121957",
+          "channel": "WeChat",
+          "money": 20,
+          "order": "10001071012024040401653696488638",
+          "unit": "RMB"
+        }
+      ]
     }
   ]
 }
