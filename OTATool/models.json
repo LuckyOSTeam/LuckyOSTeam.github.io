@@ -791,6 +791,11 @@
           "nvid": "97"
         },
         {
+          "name": "A3 Pro",
+          "product": "PJY110",
+          "nvid": "97"
+        },
+        {
           "name": "A38",
           "product": "CPH2579",
           "nvid": "1B"
@@ -889,6 +894,11 @@
         {
           "name": "K11x",
           "product": "PHF110",
+          "nvid": "97"
+        },
+        {
+          "name": "K12",
+          "product": "PJR110",
           "nvid": "97"
         }
       ]
@@ -1479,7 +1489,12 @@
           "product": "CPH2465EEA",
           "ota": "CPH2465",
           "nvid": "44"
-        }
+        },
+        {
+          "name": "Nord CE 4",
+          "product": "CPH2613",
+          "nvid": "1B"
+        },
       ]
     },
     {
@@ -1738,6 +1753,16 @@
         {
           "name": "GT Neo5 SE",
           "product": "RMX3700",
+          "nvid": "97"
+        },
+        {
+          "name": "GT Neo6",
+          "product": "RMX3852",
+          "nvid": "97"
+        },
+        {
+          "name": "GT Neo6 SE",
+          "product": "RMX3850",
           "nvid": "97"
         }
       ]
