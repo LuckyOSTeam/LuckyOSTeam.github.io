@@ -409,6 +409,16 @@
           "name": "Reno 11 Pro",
           "product": "CPH2607",
           "nvid": "1B"
+        },
+        {
+          "name": "Reno 12",
+          "product": "PJV110",
+          "nvid": "97"
+        },
+        {
+          "name": "Reno 12 Pro",
+          "product": "PJW110",
+          "nvid": "97"
         }
       ]
     },
@@ -771,6 +781,16 @@
           "nvid": "97"
         },
         {
+          "name": "A1i",
+          "product": "PJU110",
+          "nvid": "97"
+        },
+        {
+          "name": "A1s",
+          "product": "PJB110",
+          "nvid": "97"
+        },
+        {
           "name": "A2",
           "product": "PJB110",
           "nvid": "97"
@@ -899,6 +919,11 @@
         {
           "name": "K12",
           "product": "PJR110",
+          "nvid": "97"
+        },
+        {
+          "name": "K12x",
+          "product": "PJT110",
           "nvid": "97"
         }
       ]
@@ -1495,6 +1520,11 @@
           "product": "CPH2613",
           "nvid": "1B"
         },
+        {
+          "name": "Nord 4",
+          "product": "CPH2619",
+          "nvid": "1B"
+        }
       ]
     },
     {
