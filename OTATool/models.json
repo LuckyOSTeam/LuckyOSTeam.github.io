@@ -811,6 +811,21 @@
           "nvid": "97"
         },
         {
+          "name": "A3 活力版",
+          "product": "PKD110",
+          "nvid": "97"
+        },
+        {
+          "name": "A3m",
+          "product": "PKD120",
+          "nvid": "97"
+        },
+        {
+          "name": "A3x",
+          "product": "PKD130",
+          "nvid": "97"
+        },
+        {
           "name": "A3 Pro",
           "product": "PJY110",
           "nvid": "97"
@@ -1128,6 +1143,11 @@
         {
           "name": "Ace 3V",
           "product": "PJF110",
+          "nvid": "97"
+        },
+        {
+          "name": "Ace 3 Pro",
+          "product": "PJX110",
           "nvid": "97"
         }
       ]
