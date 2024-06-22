@@ -1648,6 +1648,16 @@
           "name": "V50s",
           "product": "RMX3781",
           "nvid": "97"
+        },
+        {
+          "name": "V60",
+          "product": "RMX3995",
+          "nvid": "97"
+        },
+        {
+          "name": "V60s",
+          "product": "RMX3996",
+          "nvid": "97"
         }
       ]
     },
