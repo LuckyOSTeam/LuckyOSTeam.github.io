@@ -811,6 +811,11 @@
           "nvid": "97"
         },
         {
+          "name": "A3 5G (2024)",
+          "product": "PKA110",
+          "nvid": "97"
+        },
+        {
           "name": "A3 活力版",
           "product": "PKD110",
           "nvid": "97"
@@ -1180,6 +1185,11 @@
           "name": "Pad Go Wi-Fi",
           "product": "OPD2305",
           "nvid": "1B"
+        },
+        {
+          "name": "Pad Pro",
+          "product": "OPD2404",
+          "nvid": "97"
         }
       ]
     },
@@ -1571,6 +1581,36 @@
           "name": "Open",
           "product": "CPH2551",
           "nvid": "A1"
+        }
+      ]
+    },
+    {
+      "name": "Band",
+      "list": [
+        {
+          "name": "Band",
+          "product": "W101IN",
+          "nvid": "1B"
+        }
+      ]
+    },
+    {
+      "name": "Watch",
+      "list": [
+        {
+          "name": "Watch / Cyberpunk 2077 限定版",
+          "product": "W301CN",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 钴合金限定版",
+          "product": "W501CN",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 2",
+          "product": "OPWW234",
+          "nvid": "97"
         }
       ]
     }
