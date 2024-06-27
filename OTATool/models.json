@@ -970,6 +970,11 @@
           "name": "Pad Air2",
           "product": "OPD2301",
           "nvid": "97"
+        },
+        {
+          "name": "Pad 3",
+          "product": "OPD2401",
+          "nvid": "97"
         }
       ]
     },
