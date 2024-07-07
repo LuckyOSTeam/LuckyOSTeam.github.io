@@ -1783,6 +1783,11 @@
           "name": "GT5 Pro",
           "product": "RMX3888",
           "nvid": "97"
+        },
+        {
+          "name": "GT6",
+          "product": "RMX3800",
+          "nvid": "97"
         }
       ]
     },
