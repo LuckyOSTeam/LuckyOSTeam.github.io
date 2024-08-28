@@ -1999,6 +1999,16 @@
           "name": "12 Pro+",
           "product": "RMX3840",
           "nvid": "1B"
+        },
+        {
+          "name": "13 Pro",
+          "product": "RMX3989",
+          "nvid": "97"
+        },
+        {
+          "name": "13 Pro+",
+          "product": "RMX3920",
+          "nvid": "97"
         }
       ]
     }
