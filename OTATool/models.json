@@ -1981,7 +1981,7 @@
           "nvid": "97"
         },
         {
-          "name": "12 Pro",
+          "name": "12 Pro / 至尊版",
           "product": "RMX3843",
           "nvid": "97"
         },
@@ -2002,6 +2002,11 @@
         },
         {
           "name": "13 Pro",
+          "product": "RMX5002",
+          "nvid": "97"
+        },
+        {
+          "name": "13 Pro 至尊版",
           "product": "RMX3989",
           "nvid": "97"
         },
