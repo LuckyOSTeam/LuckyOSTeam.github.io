@@ -113,6 +113,21 @@
           "name": "Find X7 Ultra 卫星通信版",
           "product": "PHY120",
           "nvid": "97"
+        },
+        {
+          "name": "Find X8",
+          "product": "PKB110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X8 Pro",
+          "product": "PKC110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X8 Pro 卫星通信版",
+          "product": "PKC130",
+          "nvid": "97"
         }
       ]
     },
@@ -945,6 +960,11 @@
           "name": "K12x",
           "product": "PJT110",
           "nvid": "97"
+        },
+        {
+          "name": "K12 Plus",
+          "product": "PKS110",
+          "nvid": "97"
         }
       ]
     },
@@ -972,7 +992,7 @@
           "nvid": "97"
         },
         {
-          "name": "Pad 3",
+          "name": "Pad 3 Pro",
           "product": "OPD2401",
           "nvid": "97"
         }
