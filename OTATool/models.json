@@ -1007,6 +1007,11 @@
           "nvid": "97"
         },
         {
+          "name": "Pad 3",
+          "product": "OPD2405",
+          "nvid": "97"
+        },
+        {
           "name": "Pad 3 Pro",
           "product": "OPD2401",
           "nvid": "97"
@@ -1743,6 +1748,11 @@
           "name": "V60s",
           "product": "RMX3996",
           "nvid": "97"
+        },
+        {
+          "name": "V60 Pro",
+          "product": "RMX3953",
+          "nvid": "97"
         }
       ]
     },
@@ -1918,6 +1928,10 @@
         {
           "name": "GT Neo6 SE",
           "product": "RMX3850",
+          "nvid": "97"
+        },        {
+          "name": "GT Neo7",
+          "product": "RMX5060",
           "nvid": "97"
         }
       ]
