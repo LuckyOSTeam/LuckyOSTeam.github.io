@@ -1199,7 +1199,17 @@
           "name": "Ace 3 Pro",
           "product": "PJX110",
           "nvid": "97"
+        },
+        {
+          "name": "Ace 5",
+          "product": "PKG110",
+          "nvid": "97"
+        },        {
+          "name": "Ace 5 Pro",
+          "product": "PKR110",
+          "nvid": "97"
         }
+
       ]
     },
     {
