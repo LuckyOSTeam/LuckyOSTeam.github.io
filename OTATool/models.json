@@ -879,6 +879,11 @@
           "name": "A78",
           "product": "CPH2495",
           "nvid": "1B"
+        },
+        {
+          "name": "A5 Pro",
+          "product": "PKP110",
+          "nvid": "97"
         }
       ]
     },
@@ -1204,12 +1209,12 @@
           "name": "Ace 5",
           "product": "PKG110",
           "nvid": "97"
-        },        {
+        },
+        {
           "name": "Ace 5 Pro",
           "product": "PKR110",
           "nvid": "97"
         }
-
       ]
     },
     {
@@ -1939,7 +1944,8 @@
           "name": "GT Neo6 SE",
           "product": "RMX3850",
           "nvid": "97"
-        },        {
+        },
+        {
           "name": "GT Neo7",
           "product": "RMX5060",
           "nvid": "97"
@@ -2077,6 +2083,16 @@
         {
           "name": "13 Pro+",
           "product": "RMX3920",
+          "nvid": "97"
+        },
+        {
+          "name": "14 Pro",
+          "product": "RMX5055",
+          "nvid": "97"
+        },
+        {
+          "name": "14 Pro+",
+          "product": "RMX5050",
           "nvid": "97"
         }
       ]
