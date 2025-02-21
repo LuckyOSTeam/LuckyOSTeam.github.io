@@ -173,6 +173,16 @@
           "name": "Find N3 Flip",
           "product": "CPH2519",
           "nvid": "1B"
+        },
+        {
+          "name": "Find N5",
+          "product": "PKH110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find N5 卫星通信版",
+          "product": "PKH120",
+          "nvid": "97"
         }
       ]
     },
@@ -836,7 +846,7 @@
           "nvid": "97"
         },
         {
-          "name": "A3 5G (2024)",
+          "name": "A3 5G (2024) / A3i Plus",
           "product": "PKA110",
           "nvid": "97"
         },
@@ -879,6 +889,11 @@
           "name": "A78",
           "product": "CPH2495",
           "nvid": "1B"
+        },
+        {
+          "name": "A5",
+          "product": "PKQ110",
+          "nvid": "97"
         },
         {
           "name": "A5 Pro",
@@ -1087,7 +1102,7 @@
           "nvid": "97"
         },
         {
-          "name": "Watch SE",
+          "name": "Watch 3 SE",
           "product": "OWW213",
           "nvid": "97"
         },
@@ -1099,6 +1114,16 @@
         {
           "name": "Watch X",
           "product": "OWW231",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch X2",
+          "product": "OWW251",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch",
+          "product": "OWW242",
           "nvid": "97"
         }
       ]
@@ -1853,6 +1878,16 @@
           "name": "GT6",
           "product": "RMX3800",
           "nvid": "97"
+        },
+        {
+          "name": "GT7 Pro",
+          "product": "RMX5010",
+          "nvid": "97"
+        },
+        {
+          "name": "GT7 Pro 竞速版",
+          "product": "RMX5090",
+          "nvid": "97"
         }
       ]
     },
@@ -1948,6 +1983,16 @@
         {
           "name": "GT Neo7",
           "product": "RMX5060",
+          "nvid": "97"
+        },
+        {
+          "name": "GT Neo7 SE",
+          "product": "RMX5080",
+          "nvid": "97"
+        },
+        {
+          "name": "GT Neo7 X",
+          "product": "RMX5071",
           "nvid": "97"
         }
       ]
