@@ -128,6 +128,26 @@
           "name": "Find X8 Pro 卫星通信版",
           "product": "PKC130",
           "nvid": "97"
+        },
+        {
+          "name": "Find X8s",
+          "product": "PKT110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X8s +",
+          "product": "PLB110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X8 Ultra",
+          "product": "PKJ110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X8 Ultra 卫星通信版",
+          "product": "PKU110",
+          "nvid": "97"
         }
       ]
     },
@@ -1005,6 +1025,11 @@
           "name": "K12 Plus",
           "product": "PKS110",
           "nvid": "97"
+        },
+        {
+          "name": "K12s",
+          "product": "PLD110",
+          "nvid": "97"
         }
       ]
     },
@@ -1591,6 +1616,11 @@
           "name": "13",
           "product": "PJZ110",
           "nvid": "97"
+        },
+        {
+          "name": "13 T",
+          "product": "PKX110",
+          "nvid": "97"
         }
       ]
     },
@@ -1798,6 +1828,16 @@
           "name": "V60 Pro",
           "product": "RMX3953",
           "nvid": "97"
+        },
+        {
+          "name": "V70",
+          "product": "RMX3946",
+          "nvid": "97"
+        },
+        {
+          "name": "V70s",
+          "product": "RMX3948",
+          "nvid": "97"
         }
       ]
     },
@@ -1882,6 +1922,11 @@
         {
           "name": "GT6",
           "product": "RMX3800",
+          "nvid": "97"
+        },
+        {
+          "name": "GT7",
+          "product": "RMX6688",
           "nvid": "97"
         },
         {
@@ -2133,6 +2178,11 @@
         {
           "name": "13 Pro+",
           "product": "RMX3920",
+          "nvid": "97"
+        },
+        {
+          "name": "14",
+          "product": "RMX5075",
           "nvid": "97"
         },
         {
