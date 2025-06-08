@@ -934,6 +934,11 @@
           "name": "A5 Pro",
           "product": "PKP110",
           "nvid": "97"
+        },
+        {
+          "name": "A5x",
+          "product": "PKW110",
+          "nvid": "97"
         }
       ]
     },
@@ -1039,6 +1044,11 @@
         {
           "name": "K12s",
           "product": "PLD110",
+          "nvid": "97"
+        },
+        {
+          "name": "K13",
+          "product": "PLM110",
           "nvid": "97"
         }
       ]
@@ -1289,6 +1299,16 @@
           "name": "Ace 5 Pro",
           "product": "PKR110",
           "nvid": "97"
+        },
+        {
+          "name": "Ace 5 竞速版",
+          "product": "PLF110",
+          "nvid": "97"
+        },
+        {
+          "name": "Ace 5 至尊版v",
+          "product": "PLC110",
+          "nvid": "97"
         }
       ]
     },
@@ -1324,6 +1344,11 @@
         {
           "name": "Pad Pro",
           "product": "OPD2404",
+          "nvid": "97"
+        },
+        {
+          "name": "Pad 2 Pro",
+          "product": "OPD2413",
           "nvid": "97"
         }
       ]
@@ -1755,6 +1780,11 @@
         {
           "name": "Watch 2",
           "product": "OPWW234",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch 3",
+          "product": "OPWW251",
           "nvid": "97"
         }
       ]
