@@ -148,6 +148,21 @@
           "name": "Find X8 Ultra 卫星通信版",
           "product": "PKU110",
           "nvid": "97"
+        },
+        {
+          "name": "Find X9",
+          "product": "PLJ110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X9 Pro",
+          "product": "PLG110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X9 Pro 卫星通信版",
+          "product": "PLG120",
+          "nvid": "97"
         }
       ]
     },
@@ -939,6 +954,36 @@
           "name": "A5x",
           "product": "PKW110",
           "nvid": "97"
+        },
+        {
+          "name": "A5 Plus",
+          "product": "PJY110",
+          "nvid": "97"
+        },
+        {
+          "name": "A6 GT",
+          "product": "PLL110",
+          "nvid": "97"
+        },
+        {
+          "name": "A6 MAX",
+          "product": "PLL110",
+          "nvid": "97"
+        },
+        {
+          "name": "A6 Pro",
+          "product": "PLN110",
+          "nvid": "97"
+        },
+        {
+          "name": "A6i",
+          "product": "PKW120",
+          "nvid": "97"
+        },
+        {
+          "name": "A6",
+          "product": "PLS120",
+          "nvid": "97"
         }
       ]
     },
@@ -1047,8 +1092,23 @@
           "nvid": "97"
         },
         {
-          "name": "K13",
+          "name": "K13 Turbo",
           "product": "PLM110",
+          "nvid": "97"
+        },
+        {
+          "name": "K13 Turbo Pro",
+          "product": "PLE110",
+          "nvid": "97"
+        },
+        {
+          "name": "K13s",
+          "product": "PLL110",
+          "nvid": "97"
+        },
+        {
+          "name": "K13x",
+          "product": "PKV110",
           "nvid": "97"
         }
       ]
@@ -1185,6 +1245,11 @@
           "name": "Watch",
           "product": "OWW242",
           "nvid": "97"
+        },
+        {
+          "name": "Watch S",
+          "product": "OWW262",
+          "nvid": "97"
         }
       ]
     },
@@ -1308,6 +1373,11 @@
         {
           "name": "Ace 5 至尊版",
           "product": "PLC110",
+          "nvid": "97"
+        },
+        {
+          "name": "Ace 6",
+          "product": "PLQ110",
           "nvid": "97"
         }
       ]
@@ -1665,6 +1735,11 @@
         {
           "name": "13 T",
           "product": "PKX110",
+          "nvid": "97"
+        },
+        {
+          "name": "15",
+          "product": "PLK110",
           "nvid": "97"
         }
       ]
@@ -2243,6 +2318,21 @@
         {
           "name": "14 Pro+",
           "product": "RMX5050",
+          "nvid": "97"
+        },
+        {
+          "name": "15",
+          "product": "RMX5105",
+          "nvid": "97"
+        },
+        {
+          "name": "15 Pro",
+          "product": "RMX5100",
+          "nvid": "97"
+        },
+        {
+          "name": "15 T",
+          "product": "RMX5112",
           "nvid": "97"
         }
       ]
