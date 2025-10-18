@@ -984,6 +984,11 @@
           "name": "A6",
           "product": "PLS120",
           "nvid": "97"
+        },
+        {
+          "name": "A6 Plus",
+          "product": "PKQ110",
+          "nvid": "97"
         }
       ]
     },
@@ -1154,6 +1159,11 @@
         {
           "name": "Pad SE",
           "product": "OPD2417",
+          "nvid": "97"
+        },
+        {
+          "name": "Pad 5",
+          "product": "OPD2506",
           "nvid": "97"
         }
       ]
@@ -1387,6 +1397,11 @@
       "list": [
         {
           "name": "Pad",
+          "product": "OPD2407",
+          "nvid": "97"
+        },
+        {
+          "name": "Pad",
           "product": "OPD2203",
           "nvid": "1B"
         },
@@ -1414,6 +1429,11 @@
         {
           "name": "Pad Pro",
           "product": "OPD2404",
+          "nvid": "97"
+        },
+        {
+          "name": "Pad 2",
+          "product": "OPD2508",
           "nvid": "97"
         },
         {
