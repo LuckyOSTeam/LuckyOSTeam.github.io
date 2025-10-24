@@ -2083,6 +2083,16 @@
           "name": "GT7 Pro 竞速版",
           "product": "RMX5090",
           "nvid": "97"
+        },
+        {
+          "name": "GT8",
+          "product": "RMX6699",
+          "nvid": "97"
+        },
+        {
+          "name": "GT8 Pro",
+          "product": "RMX5200",
+          "nvid": "97"
         }
       ]
     },
