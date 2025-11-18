@@ -499,6 +499,16 @@
           "name": "Reno 14 Pro",
           "product": "PKZ110",
           "nvid": "97"
+        },
+        {
+          "name": "Reno 15",
+          "product": "PLW110",
+          "nvid": "97"
+        },
+        {
+          "name": "Reno 15 Pro",
+          "product": "PLV110",
+          "nvid": "97"
         }
       ]
     },
