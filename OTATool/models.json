@@ -509,6 +509,11 @@
           "name": "Reno 15 Pro",
           "product": "PLV110",
           "nvid": "97"
+        },
+        {
+          "name": "Reno 15c",
+          "product": "PMD110",
+          "nvid": "97"
         }
       ]
     },
@@ -966,6 +971,11 @@
           "nvid": "97"
         },
         {
+          "name": "A5m",
+          "product": "PKW110",
+          "nvid": "97"
+        },
+        {
           "name": "A5 Plus",
           "product": "PJY110",
           "nvid": "97"
@@ -998,6 +1008,11 @@
         {
           "name": "A6 Plus",
           "product": "PKQ110",
+          "nvid": "97"
+        },
+        {
+          "name": "A6I",
+          "product": "PLL110",
           "nvid": "97"
         }
       ]
@@ -1175,6 +1190,11 @@
           "name": "Pad 5",
           "product": "OPD2506",
           "nvid": "97"
+        },
+        {
+          "name": "Pad Air 5",
+          "product": "OPD2501",
+          "nvid": "97"
         }
       ]
     },
@@ -1269,6 +1289,11 @@
         {
           "name": "Watch S",
           "product": "OWW262",
+          "nvid": "97"
+        },
+        {
+          "name": "Watch X3",
+          "product": "OWW261",
           "nvid": "97"
         }
       ]
@@ -1398,6 +1423,26 @@
         {
           "name": "Ace 6",
           "product": "PLQ110",
+          "nvid": "97"
+        },
+        {
+          "name": "Ace 6T",
+          "product": "PLR110",
+          "nvid": "97"
+        }
+      ]
+    },
+    {
+      "name": "Turbo",
+      "list": [
+        {
+          "name": "Turbo 6",
+          "product": "PLU110",
+          "nvid": "97"
+        },
+        {
+          "name": "Turbo 6V",
+          "product": "PLY110",
           "nvid": "97"
         }
       ]
@@ -2208,6 +2253,11 @@
         {
           "name": "GT Neo7 X",
           "product": "RMX5071",
+          "nvid": "97"
+        },
+        {
+          "name": "GT Neo8",
+          "product": "RMX8899",
           "nvid": "97"
         }
       ]
