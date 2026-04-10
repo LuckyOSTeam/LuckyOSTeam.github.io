@@ -163,6 +163,21 @@
           "name": "Find X9 Pro 卫星通信版",
           "product": "PLG120",
           "nvid": "97"
+        },
+        {
+          "name": "Find X9s Pro",
+          "product": "PME110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X9 Ultra",
+          "product": "PMA110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find X9 Ultra 卫星通信版",
+          "product": "PMA120",
+          "nvid": "97"
         }
       ]
     },
@@ -217,6 +232,16 @@
         {
           "name": "Find N5 卫星通信版",
           "product": "PKH120",
+          "nvid": "97"
+        },
+        {
+          "name": "Find N6",
+          "product": "PLP110",
+          "nvid": "97"
+        },
+        {
+          "name": "Find N6 卫星通信版",
+          "product": "PLP120",
           "nvid": "97"
         }
       ]
@@ -1014,6 +1039,31 @@
           "name": "A6I",
           "product": "PLL110",
           "nvid": "97"
+        },
+        {
+          "name": "A6c",
+          "product": "PMC110",
+          "nvid": "97"
+        },
+        {
+          "name": "A6s / A6i+ / A6k",
+          "product": "PLT120",
+          "nvid": "97"
+        },
+        {
+          "name": "A6v",
+          "product": "PLT130",
+          "nvid": "97"
+        },
+        {
+          "name": "A6x",
+          "product": "PLT140",
+          "nvid": "97"
+        },
+        {
+          "name": "A6s Pro",
+          "product": "PMT110",
+          "nvid": "97"
         }
       ]
     },
@@ -1140,6 +1190,16 @@
           "name": "K13x",
           "product": "PKV110",
           "nvid": "97"
+        },
+        {
+          "name": "K15 Pro",
+          "product": "PMH110",
+          "nvid": "97"
+        },
+        {
+          "name": "K15 Pro+",
+          "product": "PMG110",
+          "nvid": "97"
         }
       ]
     },
@@ -1194,6 +1254,16 @@
         {
           "name": "Pad Air 5",
           "product": "OPD2501",
+          "nvid": "97"
+        },
+        {
+          "name": "Pad 5 Pro",
+          "product": "OPD2511",
+          "nvid": "97"
+        },
+        {
+          "name": "Pad Mini",
+          "product": "OPD2515",
           "nvid": "97"
         }
       ]
@@ -1815,6 +1885,11 @@
         {
           "name": "15",
           "product": "PLK110",
+          "nvid": "97"
+        },
+        {
+          "name": "15T",
+          "product": "PLZ110",
           "nvid": "97"
         }
       ]
